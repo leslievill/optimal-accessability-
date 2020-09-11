@@ -92,39 +92,19 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.benefit-lead h3 {
+/* made h3 same class to apply to all three headings in aside */
+.benefit-aside h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
+/* made class apply to all images aside to have same element */
 .benefit-aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-aside img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-aside img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
 .search-engine-optimization {
     margin-bottom: 20px;
